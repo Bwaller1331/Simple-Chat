@@ -15,14 +15,15 @@ Run these in a terminal window
 ```
 git clone https://github.com/Bwaller1331/Simple-Chat.git
 
-cd Simple-Chat-App
+cd Simple-Chat
 
 npm i
 
 npm start
 
 open two web browsers to localhost:3000
-type in a username and a room name or number, make sure both windows use the same room number.
+type in a username and a room name or number
+make sure both windows use the same room number.
 ```
 
 ## Author
